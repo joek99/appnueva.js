@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+
+    background-image: url('images/billetes.jpg'); 
+    background-color: bisque; 
+}
+#titulo{
+    width: 50%;
+    height: 10%; 
+    top: 10%; 
+    left: 25%;
+    position: absolute; 
+    text-align: center; 
+    font-size: 3em; 
+    font-weight: bold; 
+    color: darkmagenta; 
+    background-color: rgba(235, 176, 176, 0.658);
+}
+#cuadroResultados{
+    width: 50%; 
+    height: 50%; 
+    top: 25%; 
+    left: 25%;  
+    position: absolute; 
+    background-color: rgb(117, 31, 31); 
+    font-size: 2em; 
+    color: white; 
+    text-align: center; 
+    padding-top: 4%; 
+    line-height: 1.3em; 
+}
+
+
